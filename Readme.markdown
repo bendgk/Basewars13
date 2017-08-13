@@ -1,8 +1,8 @@
-#This project is abandoned, go elsewhere
+# This project is abandoned, go elsewhere
 
 # [RGaming] Basewars 13
 
-##Credits
+## Credits
 [RG]Uggleking - Lead Developer
 
 [RG]nickelpro - Co-Developer / SQL monkey
